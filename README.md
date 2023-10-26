@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jeremy</h1>
-<h3 align="center">I am a 2nd year Computer Science Student at Carleton University and I am keen on learning about new skills and passions! </h3>
+<h3 align="center">I am a 2nd year Computer Science Student at Carleton University and I am keen on learning about new skills and passions!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
