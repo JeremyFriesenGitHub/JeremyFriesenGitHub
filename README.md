@@ -9,7 +9,7 @@
 <a href="https://www.hackerrank.com/jeremyfriesen12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeremyfriesen12" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/jeremyfriesenleetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeremyfriesenleetcode" height="30" width="30" /></a>
 <a href="https://www.codecademy.com/" target="blank">
-    <img align="center" src="https://play-lh.googleusercontent.com/sfcMEVWE3eIUF5uQ2fo4MeLBFNDGaftbN_t6_i6zbvE6XC0dOcizOMA9cfigSXq7_92b" alt="Codecademy" height="40" width="40" />
+    <img align="center" src="https://play-lh.googleusercontent.com/sfcMEVWE3eIUF5uQ2fo4MeLBFNDGaftbN_t6_i6zbvE6XC0dOcizOMA9cfigSXq7_92b" alt="Codecademy" height="30" width="30" />
 </a>
 
 
