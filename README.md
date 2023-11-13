@@ -8,6 +8,10 @@
 <a href="https://kaggle.com/jeremyfriesen123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jeremyfriesen123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jeremyfriesen12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeremyfriesen12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jeremyfriesenleetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeremyfriesenleetcode" height="30" width="40" /></a>
+<a href="https://www.codecademy.com/profiles/JeremyFriesenCA" target="blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/48/external-codecademy-an-online-platform-offers-free-coding-classes-programming-languages-logo-light-tal-revivo.png" alt="Codecademy" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
