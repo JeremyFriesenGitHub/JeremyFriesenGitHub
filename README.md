@@ -12,7 +12,6 @@
     <img align="center" src="https://play-lh.googleusercontent.com/sfcMEVWE3eIUF5uQ2fo4MeLBFNDGaftbN_t6_i6zbvE6XC0dOcizOMA9cfigSXq7_92b" alt="Codecademy" height="30" width="30" />
 </a>
 
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
