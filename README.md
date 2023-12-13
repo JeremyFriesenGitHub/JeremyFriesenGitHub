@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [My Resume](https://resumejeremy.tiiny.site)
 
-- ⚡ Fun fact: **I can speak fluently in English and French and Spanish**
+- ⚡ Fun fact: **I can speak fluently in English, French and Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
