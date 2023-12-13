@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeremyfriesen12@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/a6fd259a61e2e7db/EUlIaC07mhJCgrTn4kyAvyEBsXPLzzD3uc1ynyNxi35dow?e=ZKl3He](https://1drv.ms/b/c/a6fd259a61e2e7db/EUlIaC07mhJCgrTn4kyAvyEBsXPLzzD3uc1ynyNxi35dow?e=ZKl3He)
+- 📄 Know about my experiences [https://resumejeremy.tiiny.site](https://resumejeremy.tiiny.site)
 
 - ⚡ Fun fact **I can speak fluently in English and French and understand Spanish**
 
