@@ -23,7 +23,7 @@
 <a href="https://www.leetcode.com/jeremyfriesenleetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeremyfriesenleetcode" height="30" width="40" /></a>
 <a href="https://www.codecademy.com/profiles/JeremyFriesenCA" target ="blank"><img align="center" src="https://play-lh.googleusercontent.com/sfcMEVWE3eIUF5uQ2fo4MeLBFNDGaftbN_t6_i6zbvE6XC0dOcizOMA9cfigSXq7_92b" alt="jeremyfriesencodecademy" height="40" width="40" /></a>
 <a href="https://play.picoctf.org/users/JeremyFriesen" target ="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5315773?s=200&v=4" alt="jeremyfriesenpicoctf" height="40" width="40" /></a> 
-<a href="https://data.typeracer.com/pit/profile?user=jeremyfriesen1234" target ="blank"><img align="center" src ="https://th.bing.com/th/id/R.3e19406e4d547d10defd13096ac8bd46?rik=AnC5OkvmlNixaA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fen%2fthumb%2fd%2fd1%2fTypeRacer_logo.svg%2f220px-TypeRacer_logo.svg.png&ehk=DJLoahtQBJdtbSaWzTXhWB4KyMFIS1oWx9gHycpLjJs%3d&risl=&pid=ImgRaw&r=0" alt="jeremyfriesentyperacer" height ="30" width="40"/></a>
+<a href="https://data.typeracer.com/pit/profile?user=jeremyfriesen1234" target ="blank"><img align="center" src ="https://th.bing.com/th/id/R.3e19406e4d547d10defd13096ac8bd46?rik=AnC5OkvmlNixaA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fen%2fthumb%2fd%2fd1%2fTypeRacer_logo.svg%2f220px-TypeRacer_logo.svg.png&ehk=DJLoahtQBJdtbSaWzTXhWB4KyMFIS1oWx9gHycpLjJs%3d&risl=&pid=ImgRaw&r=0" alt="jeremyfriesentyperacer" height ="40" width="40"/></a>
 </p>
 
 
