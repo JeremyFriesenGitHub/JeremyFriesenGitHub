@@ -32,5 +32,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyfriesengithub&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeremyfriesengithub" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyfriesengithub&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="jeremyfriesengithub" /></p>
 
