@@ -32,6 +32,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyfriesengithub&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="jeremyfriesengithub" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyfriesengithub&show_icons=true&locale=en&layout=compact&theme=merko" alt="jeremyfriesengithub" /></p>
 
 
