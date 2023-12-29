@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on: [A.I. Snowday Predictor](https://github.com/JeremyFriesenGitHub/Snow-Day-Predictor)
 
+- 🌱 I’m currently learning **Back-end Development**
+  
 - 👨‍💻 All of my projects are available at: [This page](https://github.com/JeremyFriesenGitHub?tab=repositories)
 
 - 💬 Ask me about: **Java, Python, JavaScript**
