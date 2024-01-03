@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **jeremyfriesen12@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://resumejeremy.tiiny.site)
+- 📄 Know about my experiences: [My Resume](https://resumejf.tiiny.site/)
 
 - ⚡ Fun fact: **I can speak fluently in English, French and Spanish**
 
