@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [My Resume](https://resumejf.tiiny.site/)
 
-- ⚡ Fun fact: **I can speak fluently in English, French and Spanish**
+- ⚡ Fun fact: **A group of flamingos is known as a "flamboyance."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
