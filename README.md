@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **jeremyfriesen12@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://resumejf.tiiny.site/)
+- 📄 Know about my experiences: [My Resume](https://resume4.tiiny.site)
 
 - ⚡ Fun fact: **A group of flamingos is known as a "flamboyance."**
 
