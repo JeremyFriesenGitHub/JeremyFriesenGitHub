@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Java, Python, JavaScript**
 
-- 📫 How to reach me: **jeremyfriesen12@gmail.com**
+- 📫 How to reach me: [jeremyfriesen@cmail.carleton.ca](mailto:jeremyfriesen@cmail.carleton.ca)
 
 - 📄 Know about my experiences: [My Resume](https://jerfresume.tiiny.site/)
 
