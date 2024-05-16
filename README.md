@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Friesen</h1>
 <h3 align="center">A passionate Computer Science Student from Carleton University</h3>
 
-- 🔭 I’m currently working on: School Projects
+- 🔭 I’m currently working on: Data Manipulation and Analysis
 
 - 🌱 I’m currently learning **Back-end Development**
   
