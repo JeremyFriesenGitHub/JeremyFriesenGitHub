@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Friesen</h1>
 <h3 align="center">A passionate Computer Science Student from Carleton University</h3>
 
-- 🔭 I’m currently working on: [cuHacking](https://github.com/JeremyFriesenGitHub/hackathon)
+- 🔭 I’m currently working on: [cuHacking](https://github.com/cuhacking/2025)
 
 - 🌱 I’m currently learning **Data Manipulation and Analysis**
   
