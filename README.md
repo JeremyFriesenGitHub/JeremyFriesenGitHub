@@ -47,7 +47,7 @@
 
 <div align="left">
     <tr>
-      <td align="center">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyfriesengithub&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Top Languages" />
       </td>
       <td>
@@ -56,11 +56,11 @@
     </tr>
     <tr>
        <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jeremyfriesengithub&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" alt="GitHub Stats" />
-      </td>
+         <img src="https://github-readme-stats.vercel.app/api?username=jeremyfriesengithub&show_icons=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&theme=transparent" alt="GitHub Stats" style="width: 400px;" />
+       </td>
       <td>
         <a href="https://leetcode.com/JeremyFriesenLeetCode/">
-          <img src="https://leetcard.jacoblin.cool/JeremyFriesenLeetCode?theme=light&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/JeremyFriesenLeetCode?theme=light&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" style="width: 400px;" />
         </a>
       </td>
     </tr>
