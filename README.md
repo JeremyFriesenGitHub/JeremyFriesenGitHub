@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on: [cuHacking](https://github.com/cuhacking/2025)
 
-- 🌱 I’m currently learning **Data Manipulation and Analysis**
+- 🌱 I’m currently learning **Full-stack web development**
   
 - 👨‍💻 All of my projects are available at: [My portfolio website](https://jeremy-friesen.dev/)
 
-- 💬 Ask me about: **Java, Python, JavaScript**
+- 💬 Ask me about: **Data analysis**
 
 - 📫 How to reach me: [jeremyfriesen@cmail.carleton.ca](mailto:jeremyfriesen@cmail.carleton.ca)
 
