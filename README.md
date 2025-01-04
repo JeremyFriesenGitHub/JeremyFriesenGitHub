@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Manipulation and Analysis**
   
-- 👨‍💻 All of my projects are available at: [This page](https://github.com/JeremyFriesenGitHub?tab=repositories)
+- 👨‍💻 All of my projects are available at: [My portfolio website](https://jeremy-friesen.dev/)
 
 - 💬 Ask me about: **Java, Python, JavaScript**
 
