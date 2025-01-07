@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [jeremyfriesen@cmail.carleton.ca](mailto:jeremyfriesen@cmail.carleton.ca)
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1c2zP20c444dfXdmHDbV-jF_hnJxz8C7i/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1QHPFNCJJYdhbHvL9JZiD_PBiAFXNjdlW/view)
 
 - ⚡ Fun fact: **A group of flamingos is known as a "flamboyance."**
 
