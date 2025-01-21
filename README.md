@@ -51,7 +51,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyfriesengithub&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=JeremyFriesenGitHub&theme=transparent&card_width=500&card_height=170" alt="GitHub Streak" />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyFriesenGitHub&theme=transparent&card_width=500&card_height=170" alt="GitHub Streak" /></a>
       </td>
     </tr>
     <tr>
