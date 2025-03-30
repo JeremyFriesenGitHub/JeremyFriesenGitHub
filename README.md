@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeremy Friesen</h1>
 <h3 align="center">A passionate Computer Science Student from Carleton University</h3>
 
-- 🔭 I’m currently working on: [My portfolio website](https://jeremy-friesen.dev/)
+- 🔭 I’m currently working on: More hackathon submissions like [this one](https://devpost.com/software/cu-tunnels)
 
-- 🌱 I’m currently learning **Full-stack web development**
+- 🌱 I’m currently refining my **Data Science** skills
   
 - 👨‍💻 All of my projects are available at: [My portfolio website](https://jeremy-friesen.dev/)
 
