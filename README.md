@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: More hackathon submissions like [this one](https://devpost.com/software/cu-tunnels)
 
-- 🌱 I’m currently refining my **Data Science** skills
+- 🌱 I’m currently refining my **data science** skills
   
 - 👨‍💻 All of my projects are available at: [My portfolio website](https://jeremy-friesen.dev/)
 
