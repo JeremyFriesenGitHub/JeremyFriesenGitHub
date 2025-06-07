@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Friesen</h1>
 <h3 align="center">A passionate Computer Science Student from Carleton University</h3>
 
-- 🔭 I’m currently working on: More hackathon submissions like [this one](https://devpost.com/software/cu-tunnels)
+- 🔭 I’m currently working with: [CCSS](https://github.com/CarletonComputerScienceSociety) and [CAIS](https://github.com/carletonai) 
 
 - 🌱 I’m currently refining my **data science** skills
   
