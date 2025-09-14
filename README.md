@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with: [CCSS](https://github.com/CarletonComputerScienceSociety) and [CAIS](https://github.com/carletonai) 
 
-- 🌱 I’m currently refining my **data science** skills
+- 🌱 I’m currently refining my **hackathon** skills
   
 - 👨‍💻 All of my projects are available at: [My portfolio website](https://jeremy-friesen.dev/)
 
