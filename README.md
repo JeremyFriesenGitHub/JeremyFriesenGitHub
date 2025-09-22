@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeremy Friesen</h1>
 <h3 align="center">A passionate Computer Science Student from Carleton University</h3>
 
-- 🔭 I’m currently working with: [CCSS](https://github.com/CarletonComputerScienceSociety) and [CAIS](https://github.com/carletonai) 
+- 🔭 I’m currently working with: [Blackbird UAV](https://www.blackbirduav.ca)
 
 - 🌱 I’m currently refining my **hackathon** skills
   
 - 👨‍💻 All of my projects are available at: [My portfolio website](https://jeremy-friesen.dev/)
 
-- 💬 Ask me about: **Data analysis**
+- 💬 Ask me about: **Front-end**
 
 - 📫 How to reach me: [jeremyfriesen@cmail.carleton.ca](mailto:jeremyfriesen@cmail.carleton.ca)
 
