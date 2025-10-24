@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Friesen</h1>
 <h3 align="center">A passionate Computer Science Student from Carleton University</h3>
 
-- 🔭 I’m currently working with: [Blackbird UAV](https://www.blackbirduav.ca)
+- 🔭 I’m currently working with: [Blackbird UAV](https://github.com/Blackbird-UAV)
 
 - 🌱 I’m currently refining my **hackathon** skills
   
