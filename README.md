@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with: [Blackbird UAV](https://github.com/Blackbird-UAV)
 
-- 🌱 I’m currently refining my **Embedded/hardware** skills
+- 🌱 I’m currently refining my **leadership** skills
   
 - 👨‍💻 Most of my projects are available at: [My portfolio website](https://jeremy-friesen.com/)
 
